@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.navbar-collapse {
+  background-color: #2ecc71; /* Customize this as per your design */
+}
+
+.navbar-nav li a {
+  color: white; /* Ensures text is visible on colored backgrounds */
+}
+nav {
+  background-color: #4e6780;
+}
+
+.navbar-brand {
+  color: #ecf0f1 !important;
+}
+
+.navbar-nav li a {
+  color: #ecf0f1 !important;
+}
+
+h1 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
